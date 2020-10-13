@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PermissionsApp</string>
+    <string name="choose_what_to_allow_app_to_access">Choose what to allow APP to access</string>
+    <string name="storage">Storage</string>
+    <string name="access_photos_media_and_files_on_your_device">Access photos, media, and files</string>
+    <string name="and_files">on your device.</string>
+    <string name="location">Location</string>
+    <string name="access_this_device_s_location">Access this device\'s location.</string>
+    <string name="camara">Camara</string>
+    <string name="rights">20130553 - Segunda asignación - Temas Especiales - Octubre 2020</string>
+    <string name="contacts">Contacts</string>
+    <string name="phone">Phone</string>
+</resources>
